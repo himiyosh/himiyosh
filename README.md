@@ -9,9 +9,12 @@ https://himiyosh.github.io/Info
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=himiyosh" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tsuki-lab&margin-w=5)](https://github.com/himiyosh/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=himiyosh&margin-w=5)](https://github.com/himiyosh/)
 
-<!-- https://github.com/tandpfun/skill-icons#readme -->
+<!-- Thanks to 
+https://zenn.dev/chot/articles/3421ec6f622f82
+https://github.com/tandpfun/skill-icons#readme
+-->
 
 <!--
 **himiyosh/himiyosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
