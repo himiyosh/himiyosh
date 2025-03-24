@@ -1,5 +1,7 @@
 ## 💬 About himiyosh
-https://himiyosh.github.io/Info
+https://himiyosh.github.io/Info  
+**Disclaimer** This account is for personal usage. Does not represent the official views of the organization.
+
 
 ### 🌱 Languages and Tools I Use
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cs,ts,js,py,swift,html,css,nodejs,react,azure,firebase,git,github" />
