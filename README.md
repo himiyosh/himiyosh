@@ -16,6 +16,7 @@ https://himiyosh.github.io/Info
 ### 📝Links
 - 🛍️ Recommend Gadgets: [himiyosh - Amazon Shopping List](https://www.amazon.co.jp/shop/studio.344)
 - 📷 Instagram: [himiyosh](https://www.instagram.com/himiyosh/)
+- 🌐 Linkedin: [https://www.linkedin.com/in/himiyosh/](https://www.linkedin.com/in/himiyosh/)
 - 🌐 Zenn: [https://zenn.dev/himiyosh](https://zenn.dev/himiyosh)
 - 🌐 no+e: [https://note.com/himiyosh](https://note.com/himiyosh)
 
