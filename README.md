@@ -19,6 +19,7 @@ https://himiyosh.github.io/Info
 - 🌐 Linkedin: [https://www.linkedin.com/in/himiyosh/](https://www.linkedin.com/in/himiyosh/)
 - 🌐 Zenn: [https://zenn.dev/himiyosh](https://zenn.dev/himiyosh)
 - 🌐 no+e: [https://note.com/himiyosh](https://note.com/himiyosh)
+- 🌐 Kaggle: [https://www.kaggle.com/hiroyukimiyoshi](https://www.kaggle.com/hiroyukimiyoshi)
 
 <!-- Thanks to 
 https://zenn.dev/chot/articles/3421ec6f622f82
