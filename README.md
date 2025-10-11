@@ -13,6 +13,12 @@ https://himiyosh.github.io/Info
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=himiyosh&margin-w=5)](https://github.com/himiyosh/)
 
+### 📝Links
+- 🛍️ Recommend Gadgets: [himiyosh - Amazon Shopping List](https://www.amazon.co.jp/shop/studio.344)
+- 📷 Instagram: [himiyosh](https://www.instagram.com/himiyosh/)
+- 🌐 Zenn: [https://zenn.dev/himiyosh](https://zenn.dev/himiyosh)
+- 🌐 no+e: [https://note.com/himiyosh](https://note.com/himiyosh)
+
 <!-- Thanks to 
 https://zenn.dev/chot/articles/3421ec6f622f82
 https://github.com/tandpfun/skill-icons#readme
