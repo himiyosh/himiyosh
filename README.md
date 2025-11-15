@@ -14,7 +14,6 @@ https://himiyosh.github.io/Info
 [![trophy](https://github-profile-trophy.vercel.app/?username=himiyosh&margin-w=5)](https://github.com/himiyosh/)
 
 ### 📝Links
-- 🛍️ Recommend Gadgets: [himiyosh - Amazon Shopping List](https://www.amazon.co.jp/shop/studio.344)
 - 📷 Instagram: [himiyosh](https://www.instagram.com/himiyosh/)
 - 🌐 Linkedin: [https://www.linkedin.com/in/himiyosh/](https://www.linkedin.com/in/himiyosh/)
 - 🌐 Zenn: [https://zenn.dev/himiyosh](https://zenn.dev/himiyosh)
