@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=himiyosh&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/himiyosh/himiyosh?style=flat&logo=github&label=Last%20Commit)
-![Zenn](https://img.shields.io/badge/Zenn-Articles-3EA8FF?style=flat&logo=zenn)
+[![Zenn](https://img.shields.io/badge/Zenn-Articles-3EA8FF?style=flat&logo=zenn)](https://zenn.dev/himiyosh)
 
 ## 💬 About Me
 
