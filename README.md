@@ -1,14 +1,12 @@
 <!-- ===== ① Typing SVG ヘッダー ===== -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+himiyosh;Engineer+%7C+Builder+%7C+Learner;Welcome+to+my+GitHub+Profile!)](https://himiyosh.github.io/Info)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=himiyosh&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 💬 About Me
 
 > 🌐 [himiyosh.github.io/Info](https://himiyosh.github.io/Info)  
 > **Disclaimer:** This account is for personal usage. Does not represent the official views of the organization.
-
----
 
 <!-- ===== ② Languages & Tools ===== -->
 ### 🛠️ Languages and Tools
@@ -30,11 +28,6 @@
 
 ---
 
-<!-- ===== ⑥ 訪問者カウンター ===== -->
-![Profile Views](https://komarev.com/ghpvc/?username=himiyosh&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
 <!-- ===== ⑦ Snake Animation（要 GitHub Actions） ===== -->
 <!-- 
 ### 🐍 Contribution Snake
@@ -46,8 +39,6 @@ Snake Animation を有効にするには、GitHub Actions ワークフローの�
 </p>
 -->
 
----
-
 ### 📝 Links
 
 - 📷 Instagram: [himiyosh](https://www.instagram.com/himiyosh/)
@@ -55,8 +46,6 @@ Snake Animation を有効にするには、GitHub Actions ワークフローの�
 - 📘 Zenn: [himiyosh](https://zenn.dev/himiyosh)
 - 📖 note: [himiyosh](https://note.com/himiyosh)
 - 📊 Kaggle: [hiroyukimiyoshi](https://www.kaggle.com/hiroyukimiyoshi)
-
----
 
 <!-- Thanks to 
 https://zenn.dev/chot/articles/3421ec6f622f82
