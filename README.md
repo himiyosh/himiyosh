@@ -17,19 +17,17 @@
 <!-- ===== ② Languages & Tools ===== -->
 ### 🛠️ Languages and Tools
 
-<p align="center">
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cs,ts,js,py,swift,html,css,nodejs,react,azure,firebase,git,github" />
-</p>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cs,ts,js,py,swift,html,css,nodejs,react,azure,firebase,git,github" />
 
 ---
 
 <!-- ===== ⑤ Profile Summary Cards（Trophy の代替） ===== -->
 ### 🏆 Profile Summary
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himiyosh&theme=default" alt="Profile Details" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himiyosh&theme=default" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himiyosh&theme=default" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himiyosh&theme=default" alt="Stats" />
@@ -38,9 +36,7 @@
 ---
 
 <!-- ===== ⑥ 訪問者カウンター ===== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himiyosh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=himiyosh&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -59,13 +55,11 @@ Snake Animation を有効にするには、GitHub Actions ワークフローの�
 
 ### 📝 Links
 
-| | Platform | Link |
-|---|---|---|
-| 📷 | **Instagram** | [himiyosh](https://www.instagram.com/himiyosh/) |
-| 💼 | **LinkedIn** | [himiyosh](https://www.linkedin.com/in/himiyosh/) |
-| 📘 | **Zenn** | [himiyosh](https://zenn.dev/himiyosh) |
-| 📖 | **note** | [himiyosh](https://note.com/himiyosh) |
-| 📊 | **Kaggle** | [hiroyukimiyoshi](https://www.kaggle.com/hiroyukimiyoshi) |
+- 📷 Instagram: [himiyosh](https://www.instagram.com/himiyosh/)
+- 💼 LinkedIn: [himiyosh](https://www.linkedin.com/in/himiyosh/)
+- 📘 Zenn: [himiyosh](https://zenn.dev/himiyosh)
+- 📖 note: [himiyosh](https://note.com/himiyosh)
+- 📊 Kaggle: [hiroyukimiyoshi](https://www.kaggle.com/hiroyukimiyoshi)
 
 ---
 
