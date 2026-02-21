@@ -19,27 +19,33 @@
 
 <!-- ===== ⑤ Profile Summary Cards（Trophy の代替） ===== -->
 ### 🏆 Profile Summary
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himiyosh&theme=nord_dark" alt="Profile Details" />
-</p>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himiyosh&theme=nord_dark" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himiyosh&theme=nord_dark" alt="Stats" />
 </p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himiyosh&theme=nord_dark" alt="Profile Details" />
+</p>
+
+<!-- ===== ⑥ GitHub Streak ===== -->
+### 🔥 GitHub Streak
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=himiyosh&theme=nord&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<!-- ===== ⑦ Random Dev Quote ===== -->
+### 💡 Random Dev Quote
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Dev Quote" />
+</p>
 
 ---
 
-<!-- ===== ⑦ Snake Animation（要 GitHub Actions） ===== -->
-<!-- 
+<!-- ===== ⑧ Snake Animation ===== -->
 ### 🐍 Contribution Snake
-Snake Animation を有効にするには、GitHub Actions ワークフローの設定が必要です。
-下記のコメントを解除し、.github/workflows/snake.yml を作成してください。
-
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/himiyosh/himiyosh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
--->
 
 ### 📝 Links
 
