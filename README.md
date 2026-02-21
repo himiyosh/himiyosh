@@ -1,9 +1,5 @@
 <!-- ===== ① Typing SVG ヘッダー ===== -->
-<p align="center">
-  <a href="https://himiyosh.github.io/Info">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+himiyosh;Engineer+%7C+Builder+%7C+Learner;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+himiyosh;Engineer+%7C+Builder+%7C+Learner;Welcome+to+my+GitHub+Profile!)](https://himiyosh.github.io/Info)
 
 ---
 
