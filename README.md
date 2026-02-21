@@ -15,28 +15,18 @@
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cs,ts,js,py,swift,html,css,nodejs,react,azure,firebase,git,github" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himiyosh&theme=nord_dark" alt="Repos per Language" />
+
 ---
 
 <!-- ===== ⑤ Profile Summary Cards（Trophy の代替） ===== -->
 ### 🏆 Profile Summary
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himiyosh&theme=nord_dark" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himiyosh&theme=nord_dark" alt="Stats" />
+  <img src="https://streak-stats.demolab.com/?user=himiyosh&theme=nord&hide_border=false" alt="GitHub Streak" />
 </p>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himiyosh&theme=nord_dark" alt="Profile Details" />
-</p>
-
-<!-- ===== ⑥ GitHub Streak ===== -->
-### 🔥 GitHub Streak
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=himiyosh&theme=nord&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<!-- ===== ⑦ Random Dev Quote ===== -->
-### 💡 Random Dev Quote
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Dev Quote" />
 </p>
 
 ---
