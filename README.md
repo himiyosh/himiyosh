@@ -25,7 +25,6 @@
 </p>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himiyosh&theme=default" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himiyosh&theme=default" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himiyosh&theme=default" alt="Stats" />
 </p>
 
