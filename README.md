@@ -15,8 +15,6 @@
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cs,ts,js,py,swift,html,css,nodejs,react,azure,firebase,git,github" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himiyosh&theme=nord_dark" alt="Repos per Language" />
-
 ---
 
 <!-- ===== ⑤ Profile Summary Cards（Trophy の代替） ===== -->
