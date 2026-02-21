@@ -1,41 +1,80 @@
-## 💬 About himiyosh
-https://himiyosh.github.io/Info  
-**Disclaimer** This account is for personal usage. Does not represent the official views of the organization.
-
-
-### 🌱 Languages and Tools I Use
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cs,ts,js,py,swift,html,css,nodejs,react,azure,firebase,git,github" />
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himiyosh&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=himiyosh" />
+<!-- ===== ① Typing SVG ヘッダー ===== -->
+<p align="center">
+  <a href="https://himiyosh.github.io/Info">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+himiyosh;Engineer+%7C+Builder+%7C+Learner;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=himiyosh&margin-w=5)](https://github.com/himiyosh/)
+---
 
-### 📝Links
-- 📷 Instagram: [himiyosh](https://www.instagram.com/himiyosh/)
-- 🌐 Linkedin: [https://www.linkedin.com/in/himiyosh/](https://www.linkedin.com/in/himiyosh/)
-- 🌐 Zenn: [https://zenn.dev/himiyosh](https://zenn.dev/himiyosh)
-- 🌐 no+e: [https://note.com/himiyosh](https://note.com/himiyosh)
-- 🌐 Kaggle: [https://www.kaggle.com/hiroyukimiyoshi](https://www.kaggle.com/hiroyukimiyoshi)
+## 💬 About Me
+
+> 🌐 [himiyosh.github.io/Info](https://himiyosh.github.io/Info)  
+> **Disclaimer:** This account is for personal usage. Does not represent the official views of the organization.
+
+---
+
+<!-- ===== ② Languages & Tools ===== -->
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cs,ts,js,py,swift,html,css,nodejs,react,azure,firebase,git,github" />
+</p>
+
+---
+
+<!-- ===== ⑤ Profile Summary Cards（Trophy の代替） ===== -->
+### 🏆 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himiyosh&theme=default" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himiyosh&theme=default" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himiyosh&theme=default" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himiyosh&theme=default" alt="Stats" />
+</p>
+
+---
+
+<!-- ===== ⑥ 訪問者カウンター ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himiyosh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<!-- ===== ⑦ Snake Animation（要 GitHub Actions） ===== -->
+<!-- 
+### 🐍 Contribution Snake
+Snake Animation を有効にするには、GitHub Actions ワークフローの設定が必要です。
+下記のコメントを解除し、.github/workflows/snake.yml を作成してください。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/himiyosh/himiyosh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+-->
+
+---
+
+### 📝 Links
+
+| | Platform | Link |
+|---|---|---|
+| 📷 | **Instagram** | [himiyosh](https://www.instagram.com/himiyosh/) |
+| 💼 | **LinkedIn** | [himiyosh](https://www.linkedin.com/in/himiyosh/) |
+| 📘 | **Zenn** | [himiyosh](https://zenn.dev/himiyosh) |
+| 📖 | **note** | [himiyosh](https://note.com/himiyosh) |
+| 📊 | **Kaggle** | [hiroyukimiyoshi](https://www.kaggle.com/hiroyukimiyoshi) |
+
+---
 
 <!-- Thanks to 
 https://zenn.dev/chot/articles/3421ec6f622f82
 https://github.com/tandpfun/skill-icons#readme
--->
-
-<!--
-**himiyosh/himiyosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://github.com/DenverCoder1/readme-typing-svg
+https://github.com/DenverCoder1/github-readme-streak-stats
+https://github.com/Ashutosh00710/github-readme-activity-graph
+https://github.com/vn7n24fzkq/github-profile-summary-cards
+https://github.com/antonkomarev/github-profile-views-counter
 -->
