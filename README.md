@@ -29,12 +29,6 @@
 
 ---
 
-<!-- ===== ⑧ Snake Animation ===== -->
-### 🐍 Contribution Snake
-<p align="left">
-  <img src="https://raw.githubusercontent.com/himiyosh/himiyosh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ### 📝 Links
 
 - 📷 Instagram: [himiyosh](https://www.instagram.com/himiyosh/)
