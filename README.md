@@ -21,6 +21,7 @@
 ### 🏆 Profile Summary
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himiyosh&theme=nord_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himiyosh&theme=nord_dark" alt="Top Languages by Repo" />
 </p>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himiyosh&theme=nord_dark" alt="Profile Details" />
