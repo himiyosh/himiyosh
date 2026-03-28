@@ -7,9 +7,9 @@
 
 ## 💬 About Me
 
-> 🌐 [himiyosh.github.io/Info](https://himiyosh.github.io/Info)  
-> **Disclaimer:** This account is for personal usage. Does not represent the official views of the organization.
-
+- 🌐 [Portfolio](https://himiyosh.github.io/Info)  
+   > **Disclaimer:** This account is for personal usage. Does not represent the official views of the organization.
+> 
 <!-- ===== ② Languages & Tools ===== -->
 ### 🛠️ Languages and Tools
 
@@ -35,8 +35,11 @@
 - 📷 Instagram: [himiyosh](https://www.instagram.com/himiyosh/)
 - 💼 LinkedIn: [himiyosh](https://www.linkedin.com/in/himiyosh/)
 - 📘 Zenn: [himiyosh](https://zenn.dev/himiyosh)
-- 📖 note: [himiyosh](https://note.com/himiyosh)
-- 📊 Kaggle: [hiroyukimiyoshi](https://www.kaggle.com/hiroyukimiyoshi)
+
+### 🔆 Hobby
+
+- 🌐 [Studio344](https://studio344.net/): Hobby account portfolio
+  - [UCFitness](https://ucfitness.studio344.net/): A group fitness tracking platform
 
 <!-- Thanks to 
 https://zenn.dev/chot/articles/3421ec6f622f82
