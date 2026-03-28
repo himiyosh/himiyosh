@@ -1,9 +1,9 @@
 <!-- ===== ① Typing SVG ヘッダー ===== -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=06B6D4&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+himiyosh;Engineer+%7C+Builder+%7C+Learner;Welcome+to+my+GitHub+Profile!)](https://himiyosh.github.io/Info)
 
-<img src="https://komarev.com/ghpvc/?username=himiyosh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/last-commit/himiyosh/himiyosh?style=flat&logo=github&label=Last%20Commit" alt="GitHub last commit" />
-<a href="https://zenn.dev/himiyosh"><img src="https://img.shields.io/badge/Zenn-Articles-3EA8FF?style=flat&logo=zenn" alt="Zenn" /></a>
+<!-- <img src="https://komarev.com/ghpvc/?username=himiyosh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> -->
+<!-- <img src="https://img.shields.io/github/last-commit/himiyosh/himiyosh?style=flat&logo=github&label=Last%20Commit" alt="GitHub last commit" /> -->
+<!-- <a href="https://zenn.dev/himiyosh"><img src="https://img.shields.io/badge/Zenn-Articles-3EA8FF?style=flat&logo=zenn" alt="Zenn" /></a> -->
 
 ## 💬 About Me
 
