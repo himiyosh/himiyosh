@@ -40,6 +40,7 @@
 
 - 🌐 [Studio344](https://studio344.net/): Hobby account portfolio
   - [UCFitness](https://ucfitness.studio344.net/): A group fitness tracking platform
+  - [TECH Dashboard](https://techdb.studio344.net/): Dashboard of official news, papers, and releases
 
 <!-- Thanks to 
 https://zenn.dev/chot/articles/3421ec6f622f82
